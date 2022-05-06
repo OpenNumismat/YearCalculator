@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="cross.png">icons/cross.png</file>
+    <file alias="date.png">icons/date.png</file>
+    <file alias="tick.png">icons/tick.png</file>
+    <file alias="backspace.png">icons/backspace.png</file>
+</qresource>
+</RCC>
