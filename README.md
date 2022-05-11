@@ -7,7 +7,7 @@ YearCalculator is a part of [OpenNumismat](http://opennumismat.github.io/) proje
 ![Screenshot](https://opennumismat.github.io/images/YearCalculator.png)
 
 #### Download
-![Build for Windows XP and later](https://github.com/OpenNumismat/YearCalculator/releases/latest)
+[Build for Windows XP and later](https://github.com/OpenNumismat/YearCalculator/releases/latest)
 
 #### For run from source code
     pip3 install -r requirements.txt
