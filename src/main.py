@@ -1,5 +1,5 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QDialog
+from PySide6.QtWidgets import QApplication, QDialog
 from YearCalculator import YearCalculatorDialog
 import resources
 
@@ -8,7 +8,7 @@ def main():
     app = QApplication(sys.argv)
 
     dlg = YearCalculatorDialog('2022', '')
-    if dlg.exec_() == QDialog.Accepted:
+    if dlg.exec() == QDialog.Accepted:
         print(dlg.year(), '=', dlg.nativeYear())
 
 
