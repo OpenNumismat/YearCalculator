@@ -24,7 +24,7 @@
     <name>YearCalculatorDialog</name>
     <message>
         <source>Year calculator</source>
-        <translation>Конвертиране на година</translation>
+        <translation>Преобразуване на година</translation>
     </message>
     <message>
         <source>Hebrew</source>
