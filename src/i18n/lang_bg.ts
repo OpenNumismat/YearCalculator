@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>Roman</source>
-        <translation>римски</translation>
+        <translation>римска</translation>
     </message>
     <message>
         <source>Nepal</source>
