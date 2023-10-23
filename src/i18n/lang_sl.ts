@@ -1,0 +1,70 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="sl">
+<context>
+    <name>BackButton</name>
+    <message>
+        <source>Backspace</source>
+        <translation>Vračalka</translation>
+    </message>
+</context>
+<context>
+    <name>ClearButton</name>
+    <message>
+        <source>Clear</source>
+        <translation>Počisti</translation>
+    </message>
+</context>
+<context>
+    <name>ConvertButton</name>
+    <message>
+        <source>Convert</source>
+        <translation>Pretvori</translation>
+    </message>
+</context>
+<context>
+    <name>YearCalculatorDialog</name>
+    <message>
+        <source>Year calculator</source>
+        <translation>Letni kalkulator</translation>
+    </message>
+    <message>
+        <source>Hebrew</source>
+        <translation>Hebrejščina</translation>
+    </message>
+    <message>
+        <source>Units</source>
+        <translation>Enota</translation>
+    </message>
+    <message>
+        <source>Islamic</source>
+        <translation>Islamski</translation>
+    </message>
+    <message>
+        <source>Solar hijri</source>
+        <translation>Perzijski koledar</translation>
+    </message>
+    <message>
+        <source>Japan</source>
+        <translation>Japonski</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation>Leto</translation>
+    </message>
+    <message>
+        <source>Roman</source>
+        <translation>Romanski</translation>
+    </message>
+    <message>
+        <source>Nepal</source>
+        <translation>Nepalski</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation>Tajski</translation>
+    </message>
+    <message>
+        <source>Burmese</source>
+        <translation>Burmanski</translation>
+    </message>
+</context>
+</TS>
