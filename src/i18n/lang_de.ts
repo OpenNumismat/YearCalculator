@@ -1,0 +1,70 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de">
+<context>
+    <name>BackButton</name>
+    <message>
+        <source>Backspace</source>
+        <translation>Rücktaste</translation>
+    </message>
+</context>
+<context>
+    <name>ClearButton</name>
+    <message>
+        <source>Clear</source>
+        <translation>Löschen</translation>
+    </message>
+</context>
+<context>
+    <name>ConvertButton</name>
+    <message>
+        <source>Convert</source>
+        <translation>konvertieren</translation>
+    </message>
+</context>
+<context>
+    <name>YearCalculatorDialog</name>
+    <message>
+        <source>Year calculator</source>
+        <translation>Jahresrechner </translation>
+    </message>
+    <message>
+        <source>Hebrew</source>
+        <translation>hebräisch</translation>
+    </message>
+    <message>
+        <source>Units</source>
+        <translation>Stückzahl</translation>
+    </message>
+    <message>
+        <source>Islamic</source>
+        <translation>islamisch</translation>
+    </message>
+    <message>
+        <source>Solar hijri</source>
+        <translation>Sonnen-Hijri (Islam)</translation>
+    </message>
+    <message>
+        <source>Japan</source>
+        <translation>Japan</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation>Jahr</translation>
+    </message>
+    <message>
+        <source>Roman</source>
+        <translation>römisch</translation>
+    </message>
+    <message>
+        <source>Nepal</source>
+        <translation>Nepal</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation>Thai</translation>
+    </message>
+    <message>
+        <source>Burmese</source>
+        <translation>birmanisch</translation>
+    </message>
+</context>
+</TS>
