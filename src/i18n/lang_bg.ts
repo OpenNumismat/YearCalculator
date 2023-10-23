@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Thai</source>
-        <translation>тайландски</translation>
+        <translation>тайландска</translation>
     </message>
     <message>
         <source>Burmese</source>
