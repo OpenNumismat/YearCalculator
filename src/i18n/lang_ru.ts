@@ -1,0 +1,70 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ru">
+<context>
+    <name>BackButton</name>
+    <message>
+        <source>Backspace</source>
+        <translation>Стереть</translation>
+    </message>
+</context>
+<context>
+    <name>ClearButton</name>
+    <message>
+        <source>Clear</source>
+        <translation>Очистить</translation>
+    </message>
+</context>
+<context>
+    <name>ConvertButton</name>
+    <message>
+        <source>Convert</source>
+        <translation>Применить</translation>
+    </message>
+</context>
+<context>
+    <name>YearCalculatorDialog</name>
+    <message>
+        <source>Year calculator</source>
+        <translation>Калькулятор дат</translation>
+    </message>
+    <message>
+        <source>Hebrew</source>
+        <translation>Еврейский</translation>
+    </message>
+    <message>
+        <source>Units</source>
+        <translation>Единицы</translation>
+    </message>
+    <message>
+        <source>Islamic</source>
+        <translation>Исламский</translation>
+    </message>
+    <message>
+        <source>Solar hijri</source>
+        <translation>Солнечная хиджра</translation>
+    </message>
+    <message>
+        <source>Japan</source>
+        <translation>Япония</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation>Год</translation>
+    </message>
+    <message>
+        <source>Roman</source>
+        <translation>Римский</translation>
+    </message>
+    <message>
+        <source>Nepal</source>
+        <translation>Непал</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation>Тайский</translation>
+    </message>
+    <message>
+        <source>Burmese</source>
+        <translation>Бирманский</translation>
+    </message>
+</context>
+</TS>
