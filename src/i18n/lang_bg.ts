@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>еврейски</translation>
+        <translation>еврейска</translation>
     </message>
     <message>
         <source>Units</source>
