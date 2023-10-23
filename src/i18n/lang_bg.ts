@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>Burmese</source>
-        <translation>бирмански</translation>
+        <translation>бирманска</translation>
     </message>
 </context>
 </TS>
