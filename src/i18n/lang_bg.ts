@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>Japan</source>
-        <translation>японски</translation>
+        <translation>японска</translation>
     </message>
     <message>
         <source>Year</source>
