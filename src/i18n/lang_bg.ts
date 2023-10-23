@@ -17,7 +17,7 @@
     <name>ConvertButton</name>
     <message>
         <source>Convert</source>
-        <translation>Конвертиране</translation>
+        <translation>Преобразуване</translation>
     </message>
 </context>
 <context>
