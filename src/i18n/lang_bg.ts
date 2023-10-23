@@ -40,7 +40,7 @@
     </message>
     <message>
         <source>Solar hijri</source>
-        <translation>слънчев хиджри</translation>
+        <translation>слънчева хиджри</translation>
     </message>
     <message>
         <source>Japan</source>
