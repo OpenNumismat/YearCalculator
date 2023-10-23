@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>Nepal</source>
-        <translation>непалски</translation>
+        <translation>непалска</translation>
     </message>
     <message>
         <source>Thai</source>
