@@ -39,14 +39,6 @@
         <translation>Исламский</translation>
     </message>
     <message>
-        <source>Solar hijri</source>
-        <translation>Солнечная хиджра</translation>
-    </message>
-    <message>
-        <source>Japan</source>
-        <translation>Япония</translation>
-    </message>
-    <message>
         <source>Year</source>
         <translation>Год</translation>
     </message>
@@ -65,6 +57,14 @@
     <message>
         <source>Burmese</source>
         <translation>Бирманский</translation>
+    </message>
+    <message>
+        <source>Iranian</source>
+        <translation>Иранский</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>Японский</translation>
     </message>
 </context>
 </TS>
