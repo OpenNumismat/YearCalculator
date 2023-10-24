@@ -2,7 +2,7 @@ import sys
 from PySide6.QtCore import QLibraryInfo, QLocale, QTranslator
 from PySide6.QtWidgets import QApplication, QDialog
 from YearCalculator import YearCalculatorDialog
-import resources
+from YearCalculator.src import resources
 
 
 def main():
