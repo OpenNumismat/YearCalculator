@@ -17,18 +17,18 @@
     <name>ConvertButton</name>
     <message>
         <source>Convert</source>
-        <translation>Конвертиране</translation>
+        <translation>Преобразуване</translation>
     </message>
 </context>
 <context>
     <name>YearCalculatorDialog</name>
     <message>
         <source>Year calculator</source>
-        <translation>Конвертиране на година</translation>
+        <translation>Преобразуване на година</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>еврейски</translation>
+        <translation>еврейска</translation>
     </message>
     <message>
         <source>Units</source>
@@ -36,15 +36,15 @@
     </message>
     <message>
         <source>Islamic</source>
-        <translation>ислямски</translation>
+        <translation>ислямска</translation>
     </message>
     <message>
         <source>Solar hijri</source>
-        <translation>слънчев хиджри</translation>
+        <translation>слънчева хиджри</translation>
     </message>
     <message>
         <source>Japan</source>
-        <translation>японски</translation>
+        <translation>японска</translation>
     </message>
     <message>
         <source>Year</source>
@@ -52,19 +52,19 @@
     </message>
     <message>
         <source>Roman</source>
-        <translation>римски</translation>
+        <translation>римска</translation>
     </message>
     <message>
         <source>Nepal</source>
-        <translation>непалски</translation>
+        <translation>непалска</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation>тайландски</translation>
+        <translation>тайландска</translation>
     </message>
     <message>
         <source>Burmese</source>
-        <translation>бирмански</translation>
+        <translation>бирманска</translation>
     </message>
 </context>
 </TS>
