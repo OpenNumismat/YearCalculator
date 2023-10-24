@@ -11,4 +11,4 @@ YearCalculator is a part of [OpenNumismat](http://opennumismat.github.io/) proje
 
 #### For run from source code
     pip3 install -r requirements.txt
-    python3 src/main.py
+    python3 src/run.py
