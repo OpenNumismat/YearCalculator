@@ -41,14 +41,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Solar hijri</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Japan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Year</source>
         <translation type="unfinished"></translation>
     </message>
@@ -66,6 +58,14 @@
     </message>
     <message>
         <source>Burmese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Iranian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japanese</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

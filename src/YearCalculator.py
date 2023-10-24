@@ -31,8 +31,8 @@ class YearCalculatorDialog(QDialog):
         self.buttonBox.accepted.connect(self.accept)
         self.buttonBox.rejected.connect(self.reject)
 
-        self.calendars = (HebrewCalendar(), IslamicCalendar(), SolarHijriCalendar(),
-                          JapanCalendar(), RomanCalendar(), NepalCalendar(),
+        self.calendars = (HebrewCalendar(), IslamicCalendar(), IranianCalendar(),
+                          JapaneseCalendar(), RomanCalendar(), NepalCalendar(),
                           ThaiCalendar(), BurmeseCalendar())
         self.national_layouts = []
 
@@ -302,8 +302,8 @@ class IslamicCalendar(QValidator):
         return letters
 
 
-class SolarHijriCalendar(QValidator):
-    TITLE = QT_TRANSLATE_NOOP("YearCalculatorDialog", "Solar hijri")
+class IranianCalendar(QValidator):
+    TITLE = QT_TRANSLATE_NOOP("YearCalculatorDialog", "Iranian")
     CALC = ((("١", "1"), ("٢", "2"), ("٣", "3"), ("۴", "4"), ("۵", "5")),
             (("۶", "6"), ("٧", "7"), ("۸", "8"), ("٩", "9"), ("٠", "0")))
     SYMBOLS = "١٢٣۴۵۶٧۸٩٠"
@@ -350,8 +350,8 @@ class SolarHijriCalendar(QValidator):
         return letters
 
 
-class JapanCalendar(QValidator):
-    TITLE = QT_TRANSLATE_NOOP("YearCalculatorDialog", "Japan")
+class JapaneseCalendar(QValidator):
+    TITLE = QT_TRANSLATE_NOOP("YearCalculatorDialog", "Japanese")
     CALC = ((("1", ""), ("2", ""), ("3", ""), ("4", ""), ("5", ""),
              ("6", ""), ("7", ""), ("8", ""), ("9", ""), ("0", "")),
             (("一", "1"), ("二", "2"), ("三", "3"), ("四", "4"), ("五", "5"),
