@@ -39,14 +39,6 @@
         <translation>Islâmico</translation>
     </message>
     <message>
-        <source>Solar hijri</source>
-        <translation>Solar Hijri</translation>
-    </message>
-    <message>
-        <source>Japan</source>
-        <translation>Japão</translation>
-    </message>
-    <message>
         <source>Year</source>
         <translation>Ano</translation>
     </message>
@@ -65,6 +57,14 @@
     <message>
         <source>Burmese</source>
         <translation>Birmanês</translation>
+    </message>
+    <message>
+        <source>Iranian</source>
+        <translation>Iraniano</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>Japonês</translation>
     </message>
 </context>
 </TS>
