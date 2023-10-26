@@ -11,6 +11,7 @@
     <file alias="lang_es.qm">i18n/lang_es.qm</file>
     <file alias="lang_pt.qm">i18n/lang_pt.qm</file>
     <file alias="lang_ru.qm">i18n/lang_ru.qm</file>
+    <file alias="lang_sl.qm">i18n/lang_sl.qm</file>
     <file alias="lang_uk.qm">i18n/lang_uk.qm</file>
 </qresource>
 </RCC>
