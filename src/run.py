@@ -1,7 +1,7 @@
 import argparse
 import sys
 from PySide6.QtCore import QLibraryInfo, QLocale, QTranslator
-from PySide6.QtWidgets import QApplication, QDialog
+from PySide6.QtWidgets import QApplication, QDialog, QDialogButtonBox
 from YearCalculator import YearCalculatorDialog
 
 
@@ -72,8 +72,9 @@ def main():
         calendar_type = YearCalculatorDialog.CALENDARS.DEFAULT
 
     dlg = YearCalculatorDialog(gregorian_year, native_year, calendar_type)
-    if dlg.exec() == QDialog.Accepted:
-        print(dlg.year(), '=', dlg.nativeYear())
+    dlg.buttonBox.clear()
+    dlg.buttonBox.addButton(QDialogButtonBox.Close)
+    dlg.exec()
 
 
 if __name__ == "__main__":
