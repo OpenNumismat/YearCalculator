@@ -8,6 +8,7 @@ YearCalculator is a part of [OpenNumismat](http://opennumismat.github.io/) proje
 
 #### Download
 [Latest version for Windows 10 and later](https://github.com/OpenNumismat/YearCalculator/releases/latest)
+
 [Version 0.1 for Windows XP and later](https://github.com/OpenNumismat/YearCalculator/releases/download/0.1/YearCalculator.zip)
 
 #### Usage
@@ -15,7 +16,6 @@ YearCalculator is a part of [OpenNumismat](http://opennumismat.github.io/) proje
                        [-c {hebrew,islamic,iranian,japanese,roman,nepal,thai,burmese}]
 
     options:
-      -h, --help            show this help message and exit
       -l {en,bg,de,es,pt,ru,sl,uk}, --lang {en,bg,de,es,pt,ru,sl,uk}
                             UI language. If not specified, the system language is used
       -g GREGORIAN, --gregorian GREGORIAN
