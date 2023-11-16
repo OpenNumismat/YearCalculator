@@ -13,6 +13,18 @@ def main():
         "-l", "--lang", choices=('en', 'bg', 'de', 'es', 'pt', 'ru', 'sl', 'uk'),
         help="UI language. If not specified, the system language is used"
     )
+    parser.add_argument(
+        "-g", "--gregorian", type=int,
+        help="Initial gregorian year"
+    )
+    parser.add_argument(
+        "-n", "--native",
+        help="Initial year in native calendar"
+    )
+    parser.add_argument(
+        "-c", "--calendar",
+        choices=('hebrew', 'islamic', 'iranian', 'japanese', 'roman', 'nepal', 'thai', 'burmese')
+    )
 
     args = parser.parse_args()
 
@@ -30,7 +42,36 @@ def main():
     if translator.load(locale, 'qtbase', '_', path):
         app.installTranslator(translator)
 
-    dlg = YearCalculatorDialog('2022', '')
+    if args.gregorian:
+        gregorian_year = str(args.gregorian)
+    else:
+        gregorian_year = ''
+
+    if args.native:
+        native_year = args.native
+    else:
+        native_year = ''
+
+    if args.calendar == 'hebrew':
+        calendar_type = YearCalculatorDialog.CALENDARS.HEBREW
+    elif args.calendar == 'islamic':
+        calendar_type = YearCalculatorDialog.CALENDARS.ISLAMIC
+    elif args.calendar == 'iranian':
+        calendar_type = YearCalculatorDialog.CALENDARS.IRANIAN
+    elif args.calendar == 'japanese':
+        calendar_type = YearCalculatorDialog.CALENDARS.JAPANESE
+    elif args.calendar == 'roman':
+        calendar_type = YearCalculatorDialog.CALENDARS.ROMAN
+    elif args.calendar == 'nepal':
+        calendar_type = YearCalculatorDialog.CALENDARS.NEPAL
+    elif args.calendar == 'thai':
+        calendar_type = YearCalculatorDialog.CALENDARS.THAI
+    elif args.calendar == 'burmese':
+        calendar_type = YearCalculatorDialog.CALENDARS.BURMESE
+    else:
+        calendar_type = YearCalculatorDialog.CALENDARS.DEFAULT
+
+    dlg = YearCalculatorDialog(gregorian_year, native_year, calendar_type)
     if dlg.exec() == QDialog.Accepted:
         print(dlg.year(), '=', dlg.nativeYear())
 

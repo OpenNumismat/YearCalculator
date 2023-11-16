@@ -11,8 +11,8 @@ class YearCalculatorDialog(QDialog):
     class CALENDARS():
         HEBREW = 0
         ISLAMIC = 1
-        SOLAR_HIJRI = 2
-        JAPAN = 3
+        IRANIAN = 2
+        JAPANESE = 3
         ROMAN = 4
         NEPAL = 5
         THAI = 6
