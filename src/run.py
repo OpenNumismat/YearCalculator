@@ -1,3 +1,4 @@
+import argparse
 import sys
 from PySide6.QtCore import QLibraryInfo, QLocale, QTranslator
 from PySide6.QtWidgets import QApplication, QDialog
@@ -7,7 +8,18 @@ from YearCalculator import YearCalculatorDialog
 def main():
     app = QApplication(sys.argv)
 
-    locale = QLocale()
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "-l", "--lang", choices=('en', 'bg', 'de', 'es', 'pt', 'ru', 'sl', 'uk'),
+        help="UI language. If not specified, the system language is used"
+    )
+
+    args = parser.parse_args()
+
+    if args.lang:
+        locale = QLocale(args.lang)
+    else:
+        locale = QLocale()
 
     translator = QTranslator(app)
     if translator.load(locale, 'lang', '_', ':/i18n'):
