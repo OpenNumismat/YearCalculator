@@ -1,4 +1,9 @@
-# YearCalculator [![GitHub release](https://img.shields.io/github/release/opennumismat/YearCalculator.svg)](https://github.com/opennumismat/YearCalculator/releases/) [![GitHub release (latest by date)](https://img.shields.io/github/downloads/opennumismat/YearCalculator/latest/total.svg)](https://hanadigital.github.io/grev/?user=OpenNumismat&repo=YearCalculator) [![GitHub license](https://img.shields.io/github/license/opennumismat/YearCalculator.svg)](https://github.com/opennumismat/YearCalculator/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/opennumismat/YearCalculator.svg)](https://github.com/opennumismat/YearCalculator/releases/)
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/opennumismat/YearCalculator/latest/total.svg)](https://hanadigital.github.io/grev/?user=OpenNumismat&repo=YearCalculator)
+[![GitHub all releases](https://img.shields.io/github/downloads/opennumismat/YearCalculator/total.svg)](https://hanadigital.github.io/grev/?user=OpenNumismat&repo=YearCalculator)
+[![GitHub license](https://img.shields.io/github/license/opennumismat/YearCalculator.svg)](https://github.com/opennumismat/YearCalculator/blob/master/LICENSE)
+
+# YearCalculator
 
 With YearCalculator you can convert Gregorian year to other calendar system (Hebrew, Islamic, Solar hijri, Japan, Roman, Nepal, Thai, Burmese) and Vice Versa.
 
