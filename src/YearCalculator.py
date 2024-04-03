@@ -4,7 +4,19 @@ import math
 
 from PySide6.QtCore import Qt, QMargins, QT_TRANSLATE_NOOP
 from PySide6.QtGui import QFont, QValidator, QIcon
-from PySide6.QtWidgets import *
+from PySide6.QtWidgets import (
+    QApplication,
+    QComboBox,
+    QDialog,
+    QDialogButtonBox,
+    QGridLayout,
+    QHBoxLayout,
+    QLayout,
+    QLineEdit,
+    QPushButton,
+    QVBoxLayout,
+    QWidget,
+)
 
 
 class YearCalculatorDialog(QDialog):
