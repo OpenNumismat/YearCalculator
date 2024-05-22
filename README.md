@@ -7,7 +7,7 @@
 
 With YearCalculator you can convert Gregorian year to other calendar system (Hebrew, Islamic, Solar hijri, Japan, Roman, Nepal, Thai, Burmese) and Vice Versa.
 
-YearCalculator is a part of [OpenNumismat](http://opennumismat.github.io/) project, so it aims to convert years on coins.
+YearCalculator is a part of [OpenNumismat](https://opennumismat.github.io/) project, so it aims to convert years on coins.
 
 ![Screenshot](https://opennumismat.github.io/images/YearCalculator.png)
 
