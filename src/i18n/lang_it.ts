@@ -1,0 +1,70 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="it">
+<context>
+    <name>BackButton</name>
+    <message>
+        <source>Backspace</source>
+        <translation>Indietro</translation>
+    </message>
+</context>
+<context>
+    <name>ClearButton</name>
+    <message>
+        <source>Clear</source>
+        <translation>Cancella</translation>
+    </message>
+</context>
+<context>
+    <name>ConvertButton</name>
+    <message>
+        <source>Convert</source>
+        <translation>Converti</translation>
+    </message>
+</context>
+<context>
+    <name>YearCalculatorDialog</name>
+    <message>
+        <source>Year calculator</source>
+        <translation>Calcolatore della data</translation>
+    </message>
+    <message>
+        <source>Hebrew</source>
+        <translation>Ebraico</translation>
+    </message>
+    <message>
+        <source>Units</source>
+        <translation>Unità</translation>
+    </message>
+    <message>
+        <source>Islamic</source>
+        <translation>Islamico</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation>Anno</translation>
+    </message>
+    <message>
+        <source>Roman</source>
+        <translation>Romano</translation>
+    </message>
+    <message>
+        <source>Nepal</source>
+        <translation>Nepal</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation>Thailandese</translation>
+    </message>
+    <message>
+        <source>Burmese</source>
+        <translation>Birmano</translation>
+    </message>
+    <message>
+        <source>Iranian</source>
+        <translation>Persiano</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>Giapponese</translation>
+    </message>
+</context>
+</TS>
